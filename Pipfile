@@ -10,6 +10,7 @@ django = "*"
 python-decouple = "*"
 sqlite3 = "*"
 djangorestframework = "*"
+graphene-django = "*"
 
 [requires]
 python_version = "3.8"
